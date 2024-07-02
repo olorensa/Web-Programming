@@ -95,6 +95,11 @@ body {
   text-transform: uppercase;
 }
 
+.nav-item:hover {
+  background-color: #f0f0f0;
+  color: #272727;
+}
+
 a,
 a:hover,
 a:focus {
