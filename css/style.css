@@ -716,6 +716,12 @@ a:focus {
   display: flex;
   justify-content: center;
 }
+
+.row {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 .info_section h4 {
   text-transform: uppercase;
   position: relative;
