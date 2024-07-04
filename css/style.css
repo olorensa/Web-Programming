@@ -714,7 +714,8 @@ a:focus {
 .row {
   width: 100%;
   display: flex;
-  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
 }
 .info_section h4 {
   text-transform: uppercase;
